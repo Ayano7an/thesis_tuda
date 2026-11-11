@@ -1,0 +1,62 @@
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+Icon?
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 测试 / 类型检查缓存
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===== spaCy =====
+# 自己训练或保存的模型、spaCy 项目的中间产物
+models/
+training/
+*.spacy
+project.lock
+assets/
+
+# ===== pandas / 数据输出 =====
+# 中间结果和缓存，可以随时重新生成
+*.pkl
+*.pickle
+*.parquet
+*.feather
+*.h5
+
+# 爬虫原始数据和语料（体积大，或者不打算公开时取消下面几行的注释）
+# data/raw/
+# data/processed/
+# *.jsonl
+
+# ===== 编辑器 =====
+.vscode/
+.idea/
+*.swp
+
+# ===== 密钥 / 本地配置 =====
+.env
+.env.*
