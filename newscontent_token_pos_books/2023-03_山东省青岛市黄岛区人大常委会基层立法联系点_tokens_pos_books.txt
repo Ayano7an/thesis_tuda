@@ -1,0 +1,1 @@
+胶_PROPN 澳_PROPN 租界_NOUN 条约_NOUN 山东省_PROPN 青岛西_PROPN 海岸_NOUN 新区_NOUN 条例_NOUN 再_ADV 出发_VERB ，_PUNCT 最_ADV 管用_VERB 的_PART 民主_NOUN 大众_NOUN 日报_NOUN 情况_NOUN 交流_NOUN

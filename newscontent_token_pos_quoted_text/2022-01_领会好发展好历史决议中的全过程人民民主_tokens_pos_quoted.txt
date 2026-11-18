@@ -1,0 +1,1 @@
+全_DET 过程_NOUN 人民_NOUN 民主_NOUN 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 十_NUM 个_NUM 明确_NOUN 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 工人_NOUN 革命_NOUN 的_PART 第一_NUM 步_NUM 就是_ADV 使_VERB 无产阶级_NOUN 上升_VERB 为_VERB 统治_NOUN 阶级_NOUN ，_PUNCT 争得_VERB 民主_NOUN 。_PUNCT

@@ -1,0 +1,1 @@
+两_NUM 个_NUM 联系_NOUN 两_NUM 个_NUM 联系_NOUN 两_NUM 个_NUM 联系_NOUN 一_NUM 建议_NOUN 一_NUM 群_NOUN 组_NOUN 千万_NUM 工程_NOUN 代表_NOUN 部门_NOUN 面对面_ADJ

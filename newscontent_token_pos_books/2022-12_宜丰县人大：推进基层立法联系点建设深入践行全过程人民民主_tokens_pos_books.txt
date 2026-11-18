@@ -1,0 +1,1 @@
+宜春市_PROPN 住宅_NOUN 小区_NOUN 新_ADJ 能源_NOUN 汽车_NOUN 充电_ADJ 设施_NOUN 安全_NOUN 管理_NOUN 规定_NOUN 宜春市_PROPN 城区_NOUN 农贸_NOUN 市场_NOUN 管理_NOUN 条例_NOUN

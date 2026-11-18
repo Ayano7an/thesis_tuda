@@ -1,0 +1,1 @@
+昆明市_PROPN 人大_NOUN 常委会_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN 工作_NOUN 规定_NOUN 昆明市_PROPN 人大_NOUN 常委会_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN 工作_NOUN 规定_NOUN （_PUNCT 修订_ADJ 草案_NOUN ）_PUNCT 机动车_NOUN 排气_NOUN 污染_NOUN 防治_NOUN 条例_NOUN 物业_NOUN 管理_NOUN 条例_NOUN 社会_NOUN 医疗_NOUN 保险_NOUN 条例_NOUN 流动_ADJ 人口_NOUN 计划_NOUN 生育_NOUN 条例_NOUN

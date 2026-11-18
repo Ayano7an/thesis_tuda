@@ -1,0 +1,1 @@
+中共_PROPN 中央_NOUN 关于_ADP 制定_VERB 国民_NOUN 经济_NOUN 和_CCONJ 社会_NOUN 发展_NOUN 第十四_NUM 个_NUM 五_NUM 年_NUM 规划_NOUN 和_CCONJ 二_NUM 〇_NOUN 三五_NUM 年_NUM 远景_ADJ 目标_NOUN 的_PART 建议_NOUN

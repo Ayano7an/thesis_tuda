@@ -1,0 +1,1 @@
+关于_ADP 倡导_VERB 文明_NOUN 行为_NOUN ，_PUNCT 提升_VERB 文明_NOUN 素养_NOUN ，_PUNCT 构建_VERB 共建_VERB 共治_VERB 共享_VERB 社会_NOUN 治理_NOUN 新_ADJ 格局_NOUN 的_PART 议案_NOUN 南通市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 议事_NOUN 规则_NOUN （_PUNCT 修订案_NOUN ）_PUNCT 南通市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 议事_NOUN 规则_NOUN （_PUNCT 修订案_NOUN ）_PUNCT

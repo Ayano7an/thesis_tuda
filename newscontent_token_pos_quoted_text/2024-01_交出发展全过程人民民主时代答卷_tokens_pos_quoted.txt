@@ -1,0 +1,1 @@
+执法_ADJ 检查_NOUN +_PUNCT 专题_ADJ 询问_NOUN 预算_NOUN 审查_NOUN +_PUNCT 联网_ADJ 监督_NOUN 跟踪_ADJ 监督_NOUN +_PUNCT 持续_ADJ 问效_NOUN 三_NUM 查_NOUN （_PUNCT 察_VERB ）_PUNCT 万_NUM 名_NUM 代表_NOUN 进万_VERB 家_NUM 四_NUM 个_NUM 机关_NOUN

@@ -1,0 +1,1 @@
+中华_PROPN 苏维埃_PROPN 共和国_NOUN 宪法_NOUN 大纲_NOUN 陕甘宁_PROPN 边区_NOUN 施政_NOUN 纲领_NOUN 陕甘宁_PROPN 边区_NOUN 宪法_NOUN 原则_NOUN

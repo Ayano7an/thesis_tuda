@@ -1,0 +1,1 @@
+粮安_NOUN 天下_NOUN ，_PUNCT 共建_VERB 更_ADV 好_ADJ 生活_NOUN ，_PUNCT 共_ADV 创_VERB 美好_ADJ 未来_NOUN 全国_NOUN 产粮_NOUN 大市_NOUN 万_NUM 场_NUM 普法_ADJ 基层_NOUN 行_NOUN

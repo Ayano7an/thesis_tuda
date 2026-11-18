@@ -1,0 +1,1 @@
+1345_NUM 红_ADJ 绿_VERB 安_NOUN 红_NOUN 绿_ADJ 宣传员_NOUN 安_VERB 直通车_NOUN 稳定器_NOUN

@@ -1,0 +1,1 @@
+一个_NUM 中心_NOUN ，_PUNCT 两_NUM 个_NUM 基本点_NOUN 四_NUM 个_NUM 全面_ADJ 四_NUM 个_NUM 全面_NOUN 四_NUM 个_NUM 全面_ADJ 坚持_VERB 党_NOUN 的_PART 领导_NOUN 人民_NOUN 当家_PART 作主_VERB 依法_ADV 治国_VERB

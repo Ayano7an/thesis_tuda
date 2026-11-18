@@ -1,0 +1,1 @@
+全省_ADJ 人大_NOUN 在_ADP 丰富_VERB 和_CCONJ 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 实践_NOUN 中_PART 要_VERB 争先_VERB 进位_VERB ，_PUNCT 推动_VERB 人大_NOUN 工作_NOUN 迈进_VERB 全国_NOUN 第一_NUM 方阵_NOUN 三_NUM 抓_VERB 三_NUM 促_NOUN 四_NUM 个_NUM 机关_NOUN 三_NUM 抓_VERB 三_NUM 促_VERB

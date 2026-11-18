@@ -1,0 +1,1 @@
+代表_NOUN 通道_NOUN 以_ADP 数字化_NOUN 改革_NOUN 主推_VERB 网络_NOUN 溯源_NOUN 治理_NOUN 民生_NOUN 就是_ADV 警务_NOUN ，_PUNCT 群众_NOUN 就是_PART 亲人_NOUN 。_PUNCT 中华_PROPN 人民_NOUN 共和国_NOUN 城乡_NOUN 社区_NOUN 治理_NOUN 促进法_NOUN

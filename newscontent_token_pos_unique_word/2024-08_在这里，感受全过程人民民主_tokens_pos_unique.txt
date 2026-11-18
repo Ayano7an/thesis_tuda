@@ -1,0 +1,1 @@
+问_NOUN 答_VERB 对症下药_VERB 童_NOUN

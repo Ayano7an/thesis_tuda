@@ -1,0 +1,1 @@
+中华_PROPN 人民_NOUN 共和国_NOUN 国家_NOUN 消防_NOUN 救援_NOUN 人员_NOUN 法_NOUN （_PUNCT 草案_NOUN ）_PUNCT

@@ -1,0 +1,1 @@
+资阳市_PROPN 文明_NOUN 行为_NOUN 促进_NOUN 条例_NOUN 资阳市_PROPN 城区_NOUN 机动车_NOUN 停车_VERB 条例_NOUN 四川省_PROPN 农村_NOUN 集体_NOUN 经济_NOUN 组织_NOUN 条例_NOUN

@@ -1,0 +1,1 @@
+信阳市_PROPN 停车场_NOUN 建设_NOUN 管理_NOUN 条例_NOUN 条例_NOUN 条例_NOUN 条例_NOUN 条例_NOUN 条例_NOUN 条例_NOUN 关于_ADP 推进_VERB 信阳市_PROPN 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 基层_NOUN 示范点_NOUN 创建_NOUN 工作_NOUN 的_PART 指导_NOUN 意见_NOUN （_PUNCT 试行_NOUN ）_PUNCT

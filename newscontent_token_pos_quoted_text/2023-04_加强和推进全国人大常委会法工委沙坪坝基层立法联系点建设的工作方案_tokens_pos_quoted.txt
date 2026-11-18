@@ -1,0 +1,1 @@
+新_ADJ 示范_NOUN 新_ADJ 样板_NOUN 新_ADJ 经验_NOUN 1_NUM +_PUNCT 3_NUM +_NUM X_NOUN 开门_NOUN 立法_NOUN

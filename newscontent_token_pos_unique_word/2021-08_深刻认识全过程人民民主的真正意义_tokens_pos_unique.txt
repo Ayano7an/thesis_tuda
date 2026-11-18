@@ -1,0 +1,1 @@
+人_NOUN 人民_NOUN 多数_NOUN 少数_NOUN 众意_NOUN 公益_NOUN

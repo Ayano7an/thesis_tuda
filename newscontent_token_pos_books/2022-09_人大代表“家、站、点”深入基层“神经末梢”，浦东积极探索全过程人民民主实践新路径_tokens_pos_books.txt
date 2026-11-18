@@ -1,0 +1,1 @@
+中共_PROPN 中央_NOUN 国务院_NOUN 关于_ADP 支持_VERB 浦东_PROPN 新区_NOUN 高_ADJ 水平_NOUN 改革_NOUN 开放_NOUN 打造_VERB 社会主义_NOUN 现代化_NOUN 建设_NOUN 引领区_NOUN 的_PART 意见_NOUN 浦东_PROPN 新区_NOUN 市场_NOUN 主体_NOUN 登记确_NOUN 认制_NOUN 若干_NUM 规定_NOUN 浦东_PROPN 新区_NOUN 促进_VERB 商事_NOUN 调解_NOUN 若干_NUM 规定_NOUN

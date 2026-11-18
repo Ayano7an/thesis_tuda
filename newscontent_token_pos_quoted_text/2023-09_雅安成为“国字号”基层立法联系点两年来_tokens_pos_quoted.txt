@@ -1,0 +1,1 @@
+七点半_NOUN 议事_NOUN 缤纷_VERB 夏日_NOUN 法护_NOUN 成长_NOUN 活态_NOUN 样本_NOUN 最_ADV 前线_NOUN 党委_NOUN 领导_NOUN 、_PUNCT 人大_NOUN 牵头_VERB 、_PUNCT 部门_NOUN 配合_NOUN 、_PUNCT 社会_NOUN 参与_VERB 原汁_NOUN 原味_NOUN 点_ADJ 线面_NOUN 云上_NOUN +_PUNCT 线下_NOUN 立法_NOUN 篮子_NOUN 雅安_PROPN 声音_NOUN 原汁_NOUN 原味_NOUN

@@ -1,0 +1,1 @@
+行政_NOUN 事业性_NOUN 国有_ADJ 资产_NOUN 管理_NOUN 情况_NOUN 人大_NOUN 监督_NOUN 评价_NOUN 指标_NOUN 体系_NOUN

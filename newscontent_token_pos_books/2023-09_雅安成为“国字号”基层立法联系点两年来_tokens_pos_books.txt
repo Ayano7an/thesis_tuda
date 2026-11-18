@@ -1,0 +1,1 @@
+雅安市_PROPN 自然_NOUN 灾害_NOUN 应急_VERB 避险_VERB 若干_NUM 规定_NOUN （_PUNCT 草案_NOUN ）_PUNCT 中华_PROPN 人民_NOUN 共和国_NOUN 爱国主义_NOUN 教育法_NOUN （_PUNCT 草案_NOUN ）_PUNCT

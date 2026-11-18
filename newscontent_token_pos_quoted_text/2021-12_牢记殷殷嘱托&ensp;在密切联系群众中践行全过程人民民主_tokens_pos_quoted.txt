@@ -1,0 +1,1 @@
+一_NUM 府_NOUN 一委_NOUN 两院_NOUN 实体_NOUN +_PUNCT 网上_NOUN +_PUNCT 掌上_ADJ 试点_VERB 带动_VERB 、_PUNCT 逐步_ADV 推广_VERB 、_PUNCT 全面_ADV 覆盖_VERB 提出_VERB 关_VERB 督_VERB 办关_VERB 问_VERB 效关_NOUN

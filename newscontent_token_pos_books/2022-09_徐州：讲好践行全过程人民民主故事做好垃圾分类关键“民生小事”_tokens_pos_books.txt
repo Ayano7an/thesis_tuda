@@ -1,0 +1,1 @@
+徐州市_PROPN 生活_NOUN 垃圾_NOUN 管理_NOUN 条例_NOUN 关于_ADP 进一步_ADV 引导_VERB 市民_NOUN 树立_VERB 生态_NOUN 绿色_ADJ 发展_NOUN 的_PART 理念_NOUN ，_PUNCT 养成_VERB 分类_ADV 投放_VERB 垃圾_NOUN 的_PART 文明_NOUN 习惯_NOUN 的_PART 建议_NOUN 关于_ADP 对_ADP 徐州市_PROPN 生活_NOUN 垃圾_NOUN 管理_NOUN 条例_NOUN 进行_VERB 执法_ADJ 检查_NOUN 的_PART 建议_NOUN 条例_NOUN 条例_NOUN

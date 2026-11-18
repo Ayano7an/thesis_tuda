@@ -1,0 +1,1 @@
+浙江省_PROPN 街道_NOUN 人大_NOUN 工作_NOUN 条例_NOUN 浙江省_PROPN 人大_NOUN 常委会_NOUN 关于_ADP 深化_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 人大_NOUN 基层_NOUN 实践_NOUN 的_PART 决定_NOUN 街道_NOUN 居民_NOUN 议事会_NOUN 组织_NOUN 与_CCONJ 运行_NOUN 规范_NOUN 中共_PROPN 中央_NOUN 关于_ADP 进一步_ADV 全面_ADV 深化_VERB 改革_NOUN 、_PUNCT 推进_VERB 中国式_NOUN 现代化_NOUN 的_PART 决定_NOUN

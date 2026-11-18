@@ -1,0 +1,1 @@
+我_PRON 是_VERB 弱者_NOUN ，_PUNCT 出_VERB 了事_VERB 有人_VERB 负责_VERB ，_PUNCT 遵_VERB 不_ADV 遵守_VERB 交通_NOUN 规则_NOUN 跟_ADP 我_PRON 关系_NOUN 不大_VERB 弱者_NOUN 理念_NOUN 马路_NOUN 杀手_NOUN 四_NUM 大家_NOUN 过渡期_NOUN 原则_NOUN 上_PART 不_ADV 超过_VERB 三年_NOUN 法律_NOUN 六进_NOUN

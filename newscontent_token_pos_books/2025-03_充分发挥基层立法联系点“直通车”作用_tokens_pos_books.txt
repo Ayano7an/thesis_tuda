@@ -1,0 +1,1 @@
+中共_PROPN 中央_NOUN 关于_ADP 进一步_ADV 全面_ADV 深化_VERB 改革_NOUN 、_PUNCT 推进_VERB 中国式_ADJ 现代化_NOUN 的_PART 决定_NOUN 中共_PROPN 中央_NOUN 关于_ADP 全面_ADV 推进_VERB 依法_ADV 治国_VERB 若干_NUM 重大_ADJ 问题_NOUN 的_PART 决定_NOUN 全国_ADJ 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 关于_ADP 完善_VERB 和_CCONJ 加强_VERB 备案_NOUN 审查_NOUN 制度_NOUN 的_PART 决定_NOUN

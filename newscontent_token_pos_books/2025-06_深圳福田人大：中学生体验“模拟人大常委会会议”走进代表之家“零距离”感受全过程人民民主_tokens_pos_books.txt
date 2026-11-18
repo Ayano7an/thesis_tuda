@@ -1,0 +1,1 @@
+建设_VERB 骑行_NOUN 友好_ADJ 城市_NOUN 实施_NOUN 办法_NOUN （_PUNCT 草案_NOUN ）_PUNCT 建设_VERB 骑行_NOUN 友好_ADJ 城市_NOUN 实施_NOUN 办法_NOUN （_PUNCT 草案_NOUN ）_PUNCT 实施_NOUN 办法_NOUN 建设_VERB 骑行_NOUN 友好_ADJ 城市_NOUN 实施_NOUN 办法_NOUN （_PUNCT 草案_NOUN ）_PUNCT 实施_NOUN 办法_NOUN 实施_NOUN 办法_NOUN 关于_ADP 在_ADP 全_DET 市_NOUN 中小学_NOUN 推广_VERB 人民_NOUN 代表_NOUN 大会_NOUN 制度_NOUN 主题_NOUN 思政_NOUN 教育_NOUN 的_PART 建议_NOUN

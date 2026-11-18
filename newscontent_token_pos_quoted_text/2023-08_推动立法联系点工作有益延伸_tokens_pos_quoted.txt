@@ -1,0 +1,1 @@
+立法_NOUN 直通车_NOUN 临时_ADV 占用_VERB 湿地_NOUN 的_PART 期限_NOUN 一般_ADV 不得_ADV 超过_VERB 两_NUM 年_NUM ，_PUNCT 并_ADV 不得_ADV 在_ADP 临时_ADV 占用_VERB 的_PART 湿地_NOUN 上_PART 修建_VERB 永久性_ADJ 建筑物_NOUN

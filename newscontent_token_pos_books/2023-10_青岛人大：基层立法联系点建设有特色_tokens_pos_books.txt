@@ -1,0 +1,1 @@
+青岛市_PROPN 历史_NOUN 建筑_NOUN 和_CCONJ 传统_ADJ 风貌_NOUN 建筑_NOUN 保护_NOUN 利用_VERB 条例_NOUN 青岛市_PROPN 教育_NOUN 督导_NOUN 条例_NOUN 青岛市_PROPN 物业_NOUN 管理_NOUN 条例_NOUN 青岛市_PROPN 违法_ADJ 建设_NOUN 治理_NOUN 条例_NOUN

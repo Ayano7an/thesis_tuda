@@ -1,0 +1,1 @@
+两_NUM 法_NOUN 两_NUM 办法_NOUN 两_NUM 法_NOUN 两_NUM 办法_NOUN 事前_ADJ 事中_NOUN 事后_NOUN 两_NUM 法_NOUN 两_NUM 办法_NOUN 一_NUM 村_NOUN （_PUNCT 居_NOUN ）_PUNCT 一_NUM 页_NUM 法律_NOUN 巡视_NOUN 不_ADV 打招呼_VERB 的_PART 方式_NOUN 两_NUM 法_NOUN 两_NUM 办法_NOUN

@@ -1,0 +1,1 @@
+盐城市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 关于_ADP 深入_ADV 学习_VERB 贯彻_VERB 中央_NOUN 人大_NOUN 工作_NOUN 会议_NOUN 精神_NOUN 切实_ADV 加强_VERB 和_CCONJ 改进_VERB 新时代_NOUN 地方_NOUN 人大_NOUN 工作_NOUN 的_PART 决定_NOUN 盐城市_PROPN 养犬_NOUN 管理_NOUN 条例_NOUN 盐城市_PROPN 物业_NOUN 管理_NOUN 条例_NOUN 盐城市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 组成_NOUN 人员_NOUN 履职_NOUN 规范_NOUN

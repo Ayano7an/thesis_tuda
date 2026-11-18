@@ -1,0 +1,1 @@
+长沙市_PROPN 人大_NOUN 常委会_NOUN 黄材镇_PROPN 基层_NOUN 立法_NOUN 联系点_NOUN “_PUNCT 1_NUM +_NUM 5_NUM ”_PUNCT 区域_NOUN 协同_NOUN 框架_NOUN 协议_NOUN

@@ -1,0 +1,1 @@
+事后_ADJ 牙齿_NOUN 事前_ADJ 事中_NOUN 事后_NOUN

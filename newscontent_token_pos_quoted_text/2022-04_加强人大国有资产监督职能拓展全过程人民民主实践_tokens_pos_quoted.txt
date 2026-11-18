@@ -1,0 +1,1 @@
+国有_ADJ 资产_NOUN 资源_NOUN 来之不易_VERB ，_PUNCT 是_VERB 全国_NOUN 人民_NOUN 的_PART 共同_ADJ 财富_NOUN 。_PUNCT 全口径_NOUN 全覆盖_NOUN 全_DET 过程_NOUN 全方位_NOUN 人民_NOUN 代表_NOUN 大会_NOUN 制度_NOUN 是_VERB 实现_VERB 我国_NOUN 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 的_PART 重要_ADJ 制度_NOUN 载体_NOUN 。_PUNCT 明白_VERB 账_NOUN

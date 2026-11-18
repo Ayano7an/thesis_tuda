@@ -1,0 +1,1 @@
+双_NUM 联系_NOUN 双_NUM 联系_NOUN 两_NUM 个_NUM 明确_NOUN 双_NUM 联系_NOUN 双_NUM 联系_NOUN 线上_NOUN +_PUNCT 线下_NOUN 五_NUM 项_NUM 举措_NOUN 小板_NOUN 凳_NOUN 谈心会_NOUN 十_NUM 件_NUM 实事_NOUN 八_NUM 需_NOUN 八_NUM 难_NOUN 四_NUM 大_ADJ 班子_NOUN 推进_VERB 学校_NOUN 德育_NOUN 与_CCONJ 家庭_NOUN 、_PUNCT 社会_NOUN 教育_NOUN 相_ADV 结合_VERB 中华_PROPN 优秀_ADJ 传统_NOUN 文化_NOUN 社团_NOUN 特色_ADJ 社团_NOUN

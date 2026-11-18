@@ -1,0 +1,1 @@
+万_NUM 名_NUM 代表_NOUN 下_PART 基层_NOUN 家_NOUN 、_PUNCT 站_NOUN 、_PUNCT 点_NOUN 代表_NOUN 活动月_NOUN 代表_NOUN 议事会_NOUN 代表_NOUN 电视_NOUN 问政_NOUN 会_NOUN 代表_NOUN 大讲堂_NOUN 所有_DET 社区_NOUN 全覆盖_VERB 、_PUNCT 收集_VERB 民意_NOUN 全方位_NOUN 、_PUNCT 服务_VERB 群众_NOUN 全天候_VERB 山西_NOUN 味道_NOUN 云南样_PROPN 本_NOUN

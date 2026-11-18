@@ -1,0 +1,1 @@
+四_NUM 地_NOUN 共建_VERB 铸牢_VERB 中华_PROPN 民族_NOUN 共同体_NOUN 意识_NOUN 、_PUNCT 推进_VERB 东西部_NOUN 地区_NOUN 经济_NOUN 社会_NOUN 高_ADJ 质量_NOUN 发展_NOUN 四_NUM 地_NOUN 共建_VERB

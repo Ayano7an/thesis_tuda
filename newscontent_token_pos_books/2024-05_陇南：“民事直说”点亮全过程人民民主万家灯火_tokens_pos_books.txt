@@ -1,0 +1,1 @@
+陇南市_PROPN 人大_NOUN 常委会_NOUN 关于_ADP 推进_VERB 基层_NOUN 人大_NOUN 工作_NOUN 与_ADP 陇南_PROPN 民事_NOUN 直说_NOUN “_PUNCT 1234_NUM ”_PUNCT 工作法_NOUN 深度_ADV 融合_VERB 的_PART 指导_NOUN 意见_NOUN

@@ -1,0 +1,1 @@
+兰州市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 关于_ADP 丰富_VERB 和_CCONJ 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主兰州_NOUN 人大_NOUN 实践_VERB 推动_VERB 强省_ADJ 会_NOUN 行动_NOUN 的_PART 实施_NOUN 意见_NOUN 人大_NOUN 代表_NOUN 联络员_NOUN 制度_NOUN 职责_NOUN 的_PART 通知_NOUN

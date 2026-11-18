@@ -1,0 +1,1 @@
+中华_PROPN 人民_NOUN 共和国_NOUN 民营_ADJ 经济_NOUN 促进法_NOUN （_PUNCT 草案_NOUN ）_PUNCT 优化_VERB 营商_NOUN 环境_NOUN 人大_NOUN 代表_NOUN 常态化_NOUN 监督_NOUN 办法_NOUN

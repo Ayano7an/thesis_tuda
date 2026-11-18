@@ -1,0 +1,1 @@
+上海市_PROPN 生活_NOUN 垃圾_NOUN 管理_NOUN 条例_NOUN 上海市_PROPN 道路_NOUN 交通_NOUN 管理_NOUN 条例_NOUN 中华_PROPN 人民_NOUN 共和国_NOUN 道路_NOUN 交通_NOUN 安全法_NOUN 实施_NOUN 条例_NOUN 上海市_PROPN 住宅_NOUN 物业_NOUN 管理_NOUN 规定_NOUN 上海市_PROPN 绿色_ADJ 建筑_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT 中华_PROPN 人民_NOUN 共和国_NOUN 外商_NOUN 投资法_NOUN 论法_NOUN 的_PART 精神_NOUN

@@ -1,0 +1,1 @@
+中华_PROPN 人民_NOUN 共和国_NOUN 体育法_NOUN （_PUNCT 修订_ADJ 草案_NOUN ）_PUNCT 中共_PROPN 中央_NOUN 关于_ADP 党_NOUN 的_PART 百年_NOUN 奋斗_NOUN 重大_ADJ 成就_NOUN 和_CCONJ 历史_NOUN 经验_NOUN 的_PART 决议_NOUN 中华_PROPN 人民_NOUN 共和国_NOUN 宪法_NOUN 中华_PROPN 人民_NOUN 共和_NOUN 国民_NOUN 法典_NOUN

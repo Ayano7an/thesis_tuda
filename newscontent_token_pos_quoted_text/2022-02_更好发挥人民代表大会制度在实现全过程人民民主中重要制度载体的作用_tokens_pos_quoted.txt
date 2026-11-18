@@ -1,0 +1,1 @@
+两_NUM 大_ADJ 奇迹_NOUN 三_NUM 个_NUM 有效_ADJ 保证_NOUN 深刻_ADV 认识_VERB 和_CCONJ 把握_VERB 四_NUM 个_NUM 机关_NOUN 全_DET 过程_NOUN

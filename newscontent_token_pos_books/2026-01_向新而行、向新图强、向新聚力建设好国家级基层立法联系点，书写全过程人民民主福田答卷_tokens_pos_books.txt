@@ -1,0 +1,1 @@
+中华_PROPN 人民_NOUN 共和国_NOUN 民营_ADJ 经济_NOUN 促进法_NOUN （_PUNCT 草案_NOUN ）_PUNCT 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 之_PART 福_NOUN 田人_NOUN 大_ADJ 实践_NOUN 城市_NOUN 儿童_NOUN 友好_ADJ 空间_NOUN 建设_NOUN 可_VERB 复制_VERB 经验_NOUN 清单_NOUN （_PUNCT 第二_NUM 批_NUM ）_PUNCT 民声_NOUN 促民生_NOUN

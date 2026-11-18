@@ -1,0 +1,1 @@
+法润_NOUN 青春_NOUN 筑_VERB 梦_NOUN 海门_NOUN 社会_NOUN 实践_NOUN 第一_NUM 课_NOUN 中学生_NOUN 如何_ADV 参与_VERB 立法_NOUN 征询_NOUN 如何_ADV 在_ADP 生活_NOUN 中_PART 理性_ADV 表达_VERB 意见_NOUN 融入式_ADJ 参观_NOUN +_PUNCT 互动式_ADJ 授课_NOUN +_PUNCT 交流式_NOUN 探讨_NOUN

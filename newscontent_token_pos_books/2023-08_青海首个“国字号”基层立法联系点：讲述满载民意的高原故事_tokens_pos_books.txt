@@ -1,0 +1,1 @@
+青海省_PROPN 生态_NOUN 环境_NOUN 保护_NOUN 条例_NOUN 青海省_PROPN 电梯_NOUN 安全_NOUN 条例_NOUN （_PUNCT 草案_NOUN 修改稿_NOUN ）_PUNCT 青海省_PROPN 促进_VERB 中小企业_NOUN 发展_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT

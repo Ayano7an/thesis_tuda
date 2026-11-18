@@ -1,0 +1,1 @@
+新闻_NOUN 和_CCONJ 报纸_NOUN 摘要_NOUN

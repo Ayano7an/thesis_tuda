@@ -1,0 +1,1 @@
+中共_PROPN 中央_NOUN 关于_ADP 党_NOUN 的_PART 百年_NOUN 奋斗_NOUN 重大_ADJ 成就_NOUN 和_CCONJ 历史_NOUN 经验_NOUN 的_PART 决议_NOUN 决议_NOUN 决议_NOUN 新_ADJ 民主主义论_NOUN 决议_NOUN 决议_NOUN 决议_NOUN 决议_NOUN 决议_NOUN

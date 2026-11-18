@@ -1,0 +1,1 @@
+在_ADP 普通_ADJ 幼儿园_NOUN 推进_VERB 融合_ADJ 教育_NOUN 的_PART 问题_NOUN 上_PART ，_PUNCT 我_PRON 针对_ADP 其_PRON 具体_ADJ 操作_NOUN 、_PUNCT 明确_ADJ 标准_NOUN 等_PART 方面_NOUN 提_VERB 了_PART 几点_NUM 意见_NOUN ，_PUNCT 结果_ADV 被_X 二_NUM 次_NUM 审议_NOUN 稿_NOUN 采纳_VERB 了_PART 。_PUNCT 好_ADJ 路子_NOUN 好_ADJ 点子_NOUN 十_NUM 步_NUM 工作法_NOUN 全_DET 过程_NOUN 人民_NOUN 民主_NOUN

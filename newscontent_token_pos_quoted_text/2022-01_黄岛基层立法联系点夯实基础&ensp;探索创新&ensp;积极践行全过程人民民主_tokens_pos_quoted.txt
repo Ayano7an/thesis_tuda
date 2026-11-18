@@ -1,0 +1,1 @@
+两_NUM 中心_NOUN 、_PUNCT 两_NUM 广场_NOUN 两_NUM 中心_NOUN 、_PUNCT 两广_ADJ 场_NOUN 镇街_NOUN 活动站_NOUN 社区_NOUN 信息_NOUN 采集_NOUN 点_NOUN 原汁_NOUN 原味_NOUN 代表_NOUN 履职通_NOUN 新区_NOUN 样板_NOUN

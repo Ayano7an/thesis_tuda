@@ -1,0 +1,1 @@
+覆盖_VERB 广州_PROPN 全域_NOUN ，_PUNCT 兼顾_VERB 收集_VERB 粤_PROPN 港澳_PROPN 大湾区_PROPN 各地_NOUN 有关_ADJ 国家_NOUN 立法_NOUN 的_PART 社情_NOUN 民意_NOUN 港澳_PROPN 元素_NOUN 一带_NOUN 一路_NOUN 建设_VERB 好_VERB 基层_NOUN 立法_NOUN 联系点_NOUN 原汁_NOUN 原味_NOUN

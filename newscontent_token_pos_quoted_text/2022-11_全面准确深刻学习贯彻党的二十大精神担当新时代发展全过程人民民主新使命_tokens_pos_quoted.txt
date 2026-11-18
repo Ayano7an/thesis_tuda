@@ -1,0 +1,1 @@
+全面_ADV 准确_VERB 深刻_ADV 学习_VERB 贯彻党_NOUN 的_PART 二十_NUM 大_ADJ 精神_NOUN 担当_VERB 新时代_ADV 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 新_ADJ 使命_NOUN 两_NUM 个_NUM 结合_NOUN 团结_VERB 奋斗_VERB 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN ，_PUNCT 保障_VERB 人民_NOUN 当家_VERB 作主_VERB 坚持_VERB 全面_ADV 依法_ADV 治国_VERB ，_PUNCT 推进_VERB 法治_NOUN 中国_PROPN 建设_NOUN

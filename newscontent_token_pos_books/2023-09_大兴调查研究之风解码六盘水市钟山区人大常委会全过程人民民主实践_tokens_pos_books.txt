@@ -1,0 +1,1 @@
+区_NOUN 人大_NOUN 常委会_NOUN 班子_NOUN 成员_NOUN 联系区_NOUN 人大_NOUN 常委会_NOUN 委员_NOUN 委员_NOUN 联系区_NOUN 人大_NOUN 代表_NOUN 代表_NOUN 联系_VERB 原选区_NOUN 选民_NOUN 制度_NOUN

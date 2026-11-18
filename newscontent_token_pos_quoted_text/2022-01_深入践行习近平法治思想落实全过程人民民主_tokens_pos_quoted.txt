@@ -1,0 +1,1 @@
+我们_PRON 要_VERB 坚持_VERB 中国_PROPN 特色_NOUN 社会主义_NOUN 政治_NOUN 发展_NOUN 道路_NOUN 不断_ADV 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 要_VERB 全面_ADV 贯彻_VERB 实施_VERB 宪法_NOUN ，_PUNCT 维护_VERB 宪法_NOUN 权威_NOUN 和_CCONJ 尊严_NOUN 两_NUM 个_NUM 确立_NOUN 两_NUM 个_NUM 确立_NOUN 两_NUM 个_NUM 维护_NOUN

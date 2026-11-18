@@ -1,0 +1,1 @@
+盐城市_PROPN 养犬_NOUN 管理_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT 盐城市_PROPN 养老_NOUN 服务_NOUN 条例_NOUN 盐城市_PROPN 物业_NOUN 管理_NOUN 条例_NOUN

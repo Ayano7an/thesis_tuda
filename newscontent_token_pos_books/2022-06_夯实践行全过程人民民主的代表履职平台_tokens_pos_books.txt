@@ -1,0 +1,1 @@
+关于_ADP 全_DET 市_NOUN 乡镇_NOUN 年度_NOUN 民生_NOUN 实事_NOUN 项目_NOUN 人大_NOUN 代表_NOUN 票决_NOUN 工作_NOUN 的_PART 指导_NOUN 意见_NOUN 关于_ADP 修改_VERB 〈_PUNCT 北京市_PROPN 院前_ADJ 医疗_NOUN 急救_NOUN 服务_NOUN 条例_NOUN 〉_PUNCT 的_PART 决定_NOUN 中国_PROPN 人大_NOUN

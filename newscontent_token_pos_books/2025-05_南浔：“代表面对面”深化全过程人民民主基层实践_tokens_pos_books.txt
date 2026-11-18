@@ -1,0 +1,1 @@
+南浔区_PROPN 人大_NOUN 常委会_NOUN 代表_NOUN 建议_NOUN 、_PUNCT 批评_NOUN 和_CCONJ 意见_NOUN 办理_NOUN 办法_NOUN 南浔区_PROPN 人大_NOUN 常委会_NOUN 审议_NOUN 意见_NOUN 办理_NOUN 办法_NOUN 区_NOUN 人大_NOUN 代表_NOUN 小组_NOUN 集体_ADJ 评议_NOUN 代表_NOUN 建议_NOUN 办理_NOUN 工作_NOUN 办法_NOUN

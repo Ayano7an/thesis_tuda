@@ -1,0 +1,1 @@
+中山市_PROPN 住宅_NOUN 小区_NOUN 物业_NOUN 管理_NOUN 规定_NOUN （_PUNCT 草案_NOUN ）_PUNCT 中山市_PROPN 住宅_NOUN 小区_NOUN 物业_NOUN 管理_NOUN 规定_NOUN （_PUNCT 草案_NOUN ）_PUNCT 人大_NOUN 代表_NOUN 参与_VERB 基层_NOUN 立法_NOUN 联系点_NOUN 工作_NOUN 倡议书_NOUN 中山_PROPN 市中山_PROPN 特色_NOUN 菜_NOUN 产业_NOUN 发展_NOUN 促进_NOUN 条例_NOUN 中山_PROPN 市中山_NOUN 特色_NOUN 菜_NOUN 产业_NOUN 发展_NOUN 促进_NOUN 条例_NOUN

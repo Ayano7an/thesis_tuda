@@ -1,0 +1,1 @@
+中华_PROPN 苏维埃_PROPN 共和国_NOUN 宪法_NOUN 大纲_NOUN 新_ADJ 民主主义论_NOUN 论_VERB 联合_ADJ 政府_NOUN 共产党_PROPN 宣言_NOUN 重大_ADJ 行政_NOUN 决策_NOUN 程序_NOUN 暂行_ADJ 条例_NOUN

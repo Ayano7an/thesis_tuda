@@ -1,0 +1,1 @@
+一点_ADV 两_NUM 办_NOUN 一点_ADV 两_NUM 办_NOUN 一点_ADV 两_NUM 办_NOUN 一国两制_NOUN 三_NUM 法域_NOUN 一点_PROPN 两_NUM 办_NOUN 先行_ADJ 先试_NOUN 一点_NUM 两_NUM 地_NOUN 软_ADJ 联通_NOUN

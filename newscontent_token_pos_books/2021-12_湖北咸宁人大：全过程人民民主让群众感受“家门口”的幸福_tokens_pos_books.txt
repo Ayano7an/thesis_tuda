@@ -1,0 +1,1 @@
+市城区_NOUN 既有_ADJ 住宅_NOUN 加装_NOUN 电梯_NOUN 实施_NOUN 方案_NOUN 咸宁市_PROPN 关于_ADP 加强_VERB 物业_NOUN 管理_NOUN 工作_NOUN 的_PART 实施_NOUN 意见_NOUN 关于_ADP 加强_VERB 物业_NOUN 小区_NOUN 业主_NOUN 委员会_NOUN 组建_NOUN 工作_NOUN 的_PART 通知_NOUN 咸宁市_PROPN 小区_NOUN 物业_NOUN 管理_NOUN 服务_NOUN 日常_ADV 工作_NOUN 流程_NOUN

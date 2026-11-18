@@ -1,0 +1,1 @@
+粤_PROPN 港澳_PROPN 律政_NOUN 先锋_NOUN 成长_NOUN 研习营_NOUN 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 看到_VERB 香港_PROPN 同胞_NOUN 的_PART 意见_NOUN 建议_NOUN 被_X 写进_VERB 立法_NOUN 文本_NOUN ，_PUNCT 我_PRON 特别_ADV 激动_VERB 。_PUNCT 沉浸式_ADJ 参观_NOUN 比_ADP 课堂_NOUN 教学_NOUN 更_ADV 具_VERB 冲击力_NOUN ，_PUNCT 这次_DET 参观_NOUN 让_VERB 我_PRON 对_ADP 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 重大_ADJ 理念_NOUN 有_VERB 了_PART 具象化_ADJ 感知_NOUN ……_PUNCT

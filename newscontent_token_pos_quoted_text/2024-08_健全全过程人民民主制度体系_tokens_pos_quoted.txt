@@ -1,0 +1,1 @@
+两_NUM 个_NUM 结合_NOUN 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 十_NUM 个_NUM 明确_NOUN 八_NUM 个_NUM 能否_NOUN 四_NUM 个_NUM 要_VERB 看_VERB ，_PUNCT 四_NUM 个_NUM 更_ADV 要_VERB 看_VERB 两_NUM 个_NUM 确立_NOUN 四_NUM 个_NUM 意识_NOUN 四_NUM 个_NUM 自信_NOUN 两_NUM 个_NUM 维护_NOUN

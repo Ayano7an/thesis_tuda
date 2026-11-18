@@ -1,0 +1,1 @@
+泸州市_PROPN 人大_NOUN 常委会_NOUN 对_ADP 〈_PUNCT 市_NOUN 人民_NOUN 政府_NOUN 关于_ADP 中心_NOUN 城区_NOUN 过江_NOUN 通道_NOUN 及_CCONJ 城市_NOUN 更新_NOUN 规划_NOUN 建设_NOUN 情况_NOUN 的_PART 报告_NOUN 〉_PUNCT 的_PART 审议_NOUN 意见_NOUN 泸州市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 监督_NOUN 工作_NOUN 规程_NOUN （_PUNCT 试行_ADJ ）_PUNCT 泸州市_PROPN 人大_NOUN 常委会_NOUN 专题_NOUN 询问_NOUN 办法_NOUN

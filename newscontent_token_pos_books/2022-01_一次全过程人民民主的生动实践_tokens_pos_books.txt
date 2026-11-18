@@ -1,0 +1,1 @@
+天津市_PROPN 区级_NOUN 以下_PART 人民_NOUN 代表_NOUN 大会_NOUN 代表_NOUN 选举_NOUN 实施_NOUN 细则_NOUN 选举权_NOUN 庄严_VERB 又_CCONJ 神圣_VERB 警钟_NOUN 长鸣_NOUN

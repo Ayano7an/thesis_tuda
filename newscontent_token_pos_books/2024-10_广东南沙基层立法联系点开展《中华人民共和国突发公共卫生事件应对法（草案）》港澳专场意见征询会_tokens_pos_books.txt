@@ -1,0 +1,1 @@
+中华_PROPN 人民_NOUN 共和国_NOUN 突发_ADJ 公共_ADJ 卫生_NOUN 事件_NOUN 应对法_NOUN （_PUNCT 草案_NOUN ）_PUNCT 中华_PROPN 人民_NOUN 共和国_NOUN 突发_ADJ 公共_ADJ 卫生_NOUN 事件_NOUN 应对法_NOUN （_PUNCT 草案_NOUN ）_PUNCT

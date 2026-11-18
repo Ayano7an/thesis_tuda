@@ -1,0 +1,1 @@
+人大_NOUN 牵头_VERB 统筹_VERB 、_PUNCT 一府两院_NOUN 协同_VERB 联动_VERB 两_NUM 个_NUM 联系_NOUN 三_NUM 查_NOUN （_PUNCT 察_VERB ）_PUNCT 千_NUM 名_NUM 代表_NOUN 下_VERB 基层_NOUN 下情_VERB 上达_VERB 分级_ADJ 领办_NOUN 办前_NOUN 沟通_VERB 、_PUNCT 办中_NOUN 协商_NOUN 、_PUNCT 办_NOUN 后_PART 反馈_NOUN 五率_NOUN 一度_NUM 社情_NOUN 民意_NOUN 采集员_NOUN 民生_NOUN 纠纷_NOUN 调解员_NOUN 软_ADJ 要求_NOUN

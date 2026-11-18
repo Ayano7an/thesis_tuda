@@ -1,0 +1,1 @@
+中华_PROPN 人民_NOUN 共和国_NOUN 国家_NOUN 通用_ADJ 语言_NOUN 文字法_NOUN 中华_PROPN 人民_NOUN 共和国_NOUN 全国_ADJ 人民_NOUN 代表_NOUN 大会_NOUN 和_CCONJ 地方_NOUN 各级_ADJ 人民_NOUN 代表_NOUN 大会_NOUN 代表法_NOUN 新疆_PROPN 维吾尔_PROPN 自治区_NOUN 城镇_NOUN 居民_NOUN 养犬_NOUN 管理_NOUN 条例_NOUN

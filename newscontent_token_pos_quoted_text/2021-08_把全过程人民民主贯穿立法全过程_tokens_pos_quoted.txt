@@ -1,0 +1,1 @@
+发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 人民_NOUN 民主_NOUN 是_VERB 一_NUM 种_NUM 全_DET 过程_NOUN 的_PART 民主_NOUN ，_PUNCT 所有_DET 的_PART 重大_ADJ 立法_NOUN 决策_NOUN 都_ADV 是_VERB 依照_ADP 程序_NOUN 、_PUNCT 经过_ADP 民主_NOUN 酝酿_VERB ，_PUNCT 通过_ADP 科学_NOUN 决策_NOUN 、_PUNCT 民主_ADJ 决策_NOUN 产生_VERB 的_PART 。_PUNCT 最先_ADJ 一_NUM 公里_NUM

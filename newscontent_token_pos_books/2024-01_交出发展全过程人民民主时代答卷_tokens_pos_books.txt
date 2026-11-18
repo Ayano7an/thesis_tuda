@@ -1,0 +1,1 @@
+新疆_PROPN 维吾尔_NOUN 自治区_NOUN 公共_ADJ 图书馆_NOUN 条例_NOUN 新疆_PROPN 维吾尔_PROPN 自治区_NOUN 标准化_NOUN 条例_NOUN 新疆_PROPN 维吾尔_PROPN 自治区_NOUN 气象_NOUN 灾害_NOUN 防御_NOUN 条例_NOUN

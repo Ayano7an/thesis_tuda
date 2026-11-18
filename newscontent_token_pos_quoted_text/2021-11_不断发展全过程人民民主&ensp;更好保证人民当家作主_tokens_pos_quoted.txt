@@ -1,0 +1,1 @@
+全_DET 链条_NOUN 、_PUNCT 全方位_ADJ 、_PUNCT 全覆盖_NOUN 最_ADV 广泛_VERB 、_PUNCT 最_ADV 真实_VERB 、_PUNCT 最_ADV 管用_VERB 没有_VERB 民主_NOUN 就_ADV 没有_VERB 社会主义_NOUN ，_PUNCT 就_ADV 没有_VERB 社会主义_NOUN 的_PART 现代化_NOUN ，_PUNCT 就_ADV 没有_VERB 中华_PROPN 民族_NOUN 伟大_ADJ 复兴_NOUN 。_PUNCT

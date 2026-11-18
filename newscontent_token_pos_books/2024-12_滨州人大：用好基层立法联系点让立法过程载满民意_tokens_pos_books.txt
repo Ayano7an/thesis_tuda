@@ -1,0 +1,1 @@
+山东省_PROPN 农村_NOUN 供水_NOUN 条例_NOUN 滨州市_PROPN 优化_VERB 营商_NOUN 环境_NOUN 条例_NOUN 滨州市_PROPN 人大_NOUN 常委会_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN “_PUNCT 一_NUM 县_NOUN 一_NUM 精品_NOUN ”_PUNCT 工作_NOUN 实施_NOUN 方案_NOUN

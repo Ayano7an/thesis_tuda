@@ -1,0 +1,1 @@
+全国_ADJ 人大_NOUN 常委会_NOUN 法制_NOUN 工作_NOUN 委员会_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN 三级_ADJ 立法_NOUN 联系点_NOUN 现在_NOUN 我们_PRON 的_PART 清真寺_NOUN 都_ADV 升_VERB 国旗_NOUN 了_PART ，_PUNCT 能_VERB 不_ADV 能_VERB 在_ADP 《_PUNCT 中华_PROPN 人民_NOUN 共和国_NOUN 国旗法_NOUN 修正案_NOUN （_PUNCT 草案_NOUN ）_PUNCT 》_PUNCT 里面_NOUN 把_X 这个_DET 意见_NOUN 加_VERB 进去_VERB

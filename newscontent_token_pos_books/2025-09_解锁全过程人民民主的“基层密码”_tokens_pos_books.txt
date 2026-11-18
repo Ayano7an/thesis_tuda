@@ -1,0 +1,1 @@
+关于_ADP 洪塘_PROPN 街道_NOUN 无_VERB 人_NOUN 值守_VERB 场所_NOUN 消防_NOUN 安全_NOUN 管理_NOUN 工作_NOUN 的_PART 建议_NOUN 建议_NOUN 宁波市_PROPN 职业_NOUN 技能_NOUN 培训_NOUN 条例_NOUN “_PUNCT 猫_NOUN 洋谷_NOUN ”_PUNCT 项目_NOUN 督事_NOUN 清单_NOUN 宁波市_PROPN 职业_NOUN 技能_NOUN 培训_NOUN 条例_NOUN

@@ -1,0 +1,1 @@
+认真_ADV 全面_ADV 学习_VERB 宣传_VERB 贯彻党_VERB 的_PART 二十_NUM 大_ADJ 精神_NOUN &_PUNCT ens_NOUN p;_NOUN 为_ADP 建设_VERB 好_VERB 基层_NOUN 立法_NOUN 联系点_NOUN 用心_VERB 用_VERB 情用力_NOUN

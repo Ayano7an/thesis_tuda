@@ -1,0 +1,1 @@
+常德市_PROPN 住宅_NOUN 小区_NOUN 物业_NOUN 服务_NOUN 监督_NOUN 若干_NUM 规定_NOUN （_PUNCT 草案_NOUN ）_PUNCT

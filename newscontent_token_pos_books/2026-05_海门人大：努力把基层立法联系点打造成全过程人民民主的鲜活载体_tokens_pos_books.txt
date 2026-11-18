@@ -1,0 +1,1 @@
+全国_ADJ 人大_NOUN 常委会_NOUN 法制_NOUN 工作_NOUN 委员会_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN 工作_NOUN 规则_NOUN 关于_ADP 海门_NOUN 托育_NOUN 服务法_NOUN 立法_NOUN 调研_NOUN 情况_NOUN 的_PART 报告_NOUN 一_NUM 部_NUM 法律_NOUN 的_PART 诞生_NOUN 守护_VERB 舌尖_NOUN 安全_NOUN 从_ADP 你_PRON 我_PRON 做起_VERB 潮涌海_NOUN 之_PART 门_NOUN

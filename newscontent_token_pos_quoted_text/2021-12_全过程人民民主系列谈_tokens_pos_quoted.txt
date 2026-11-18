@@ -1,0 +1,1 @@
+全_DET 过程_NOUN 全_DET 过程_NOUN 全_DET 过程_NOUN 全_DET 过程_NOUN 全_DET 过程_NOUN 全_DET 过程_NOUN 全_DET 过程_NOUN 选举_NOUN 民主_NOUN 全_DET 过程_NOUN 一次性_ADJ 民主_NOUN 即_ADV 用_VERB 即_ADV 弃型_VERB 民主_NOUN 全_DET 过程_NOUN 全_DET 过程_NOUN 全_DET 过程_NOUN 个人_NOUN 秀_NOUN 江山_PROPN 就是_PART 人民_NOUN ，_PUNCT 人民_NOUN 就是_PART 江山_NOUN 豆选_NOUN 民主_NOUN 鞋子_NOUN 合不合脚_VERB ，_PUNCT 自己_PRON 穿_VERB 了_PART 才_ADV 知道_VERB 。_PUNCT

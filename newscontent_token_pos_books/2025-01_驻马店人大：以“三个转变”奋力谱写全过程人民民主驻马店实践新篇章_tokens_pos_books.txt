@@ -1,0 +1,1 @@
+河南省_PROPN 城镇_NOUN 排水_NOUN 与_CCONJ 污水_NOUN 处理_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT

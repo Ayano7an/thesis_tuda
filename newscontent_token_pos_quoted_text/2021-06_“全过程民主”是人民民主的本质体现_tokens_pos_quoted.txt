@@ -1,0 +1,1 @@
+全_DET 过程_NOUN 民主_NOUN 全_DET 过程_NOUN 民主_NOUN 全_DET 过程_NOUN 民主_NOUN 人民_NOUN 的_PART 权力_NOUN 人民_NOUN 进行_VERB 治理_NOUN 、_PUNCT 统治_NOUN 民主_NOUN 选举_NOUN 民主_NOUN 熔断_NOUN 民主_NOUN 失败_VERB 民主_NOUN 无奈_VERB 全_DET 过程_NOUN 民主_NOUN 全_DET 过程_NOUN 民主_NOUN 全_DET 过程_NOUN 民主_NOUN 全_DET 过程_NOUN 民主_NOUN

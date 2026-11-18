@@ -1,0 +1,1 @@
+建设_VERB 好_VERB 基层_NOUN 立法_NOUN 联系点_NOUN 四_NUM 个_NUM 功能_NOUN 定位_NOUN 一_NUM 国_NOUN 一_NUM 省_NOUN 四_NUM 个_NUM 功能_NOUN 定位_NOUN 八_NUM 有_VERB

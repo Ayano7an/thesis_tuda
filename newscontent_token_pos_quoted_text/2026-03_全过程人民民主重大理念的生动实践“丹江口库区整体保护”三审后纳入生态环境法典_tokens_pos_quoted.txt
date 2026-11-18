@@ -1,0 +1,1 @@
+丹江_PROPN 口库区_NOUN 及其_CCONJ 上游_NOUN 所在地_NOUN 县级_NOUN 以上_PART 地方_NOUN 人民_NOUN 政府_NOUN 应当_VERB 加强_VERB 山水_NOUN 林田湖_NOUN 草沙_NOUN 整体_NOUN 保护_NOUN ，_PUNCT 增强_VERB 水源_NOUN 涵养_NOUN 能力_NOUN ，_PUNCT 保障_VERB 水质_NOUN 稳定_VERB 达标_VERB 。_PUNCT 重要_ADJ 地理_NOUN 单元_NOUN 整体_NOUN 保护_NOUN 一泓清水_NOUN 永续_ADV 北上_VERB 谋_VERB 项目_NOUN 一泓清水_NOUN 永续_ADV 北上_VERB

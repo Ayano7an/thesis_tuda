@@ -1,0 +1,1 @@
+银行业_NOUN 监督_NOUN 管理法_NOUN （_PUNCT 修订_NOUN 草案_NOUN ）_PUNCT 银行业_NOUN 监督_NOUN 管理法_NOUN （_PUNCT 修订_NOUN 草案_NOUN ）_PUNCT 刑法_NOUN 修正案_NOUN （_PUNCT 十二_NUM ）_PUNCT 银行业_NOUN 监督_NOUN 管理法_NOUN

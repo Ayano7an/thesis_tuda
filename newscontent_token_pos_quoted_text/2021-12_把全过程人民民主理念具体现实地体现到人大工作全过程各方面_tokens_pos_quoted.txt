@@ -1,0 +1,1 @@
+万_NUM 名_NUM 代表_NOUN 下_PART 基层_NOUN 涉及_VERB 千家万户_NOUN 的_PART 议题_NOUN 请_VERB 千家万户_NOUN 参与_VERB 、_PUNCT 听_VERB 千家万户_NOUN 意见_NOUN 月进站_NOUN 、_PUNCT 季回家_NOUN 、_PUNCT 年_NOUN 述职_NOUN 一_NUM 府_NOUN 一委_NOUN 两院_NOUN 一_NUM 网_NOUN 通办_NOUN 不_ADV 打烊_VERB

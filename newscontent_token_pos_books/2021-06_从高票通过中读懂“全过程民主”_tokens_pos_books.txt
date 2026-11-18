@@ -1,0 +1,1 @@
+全国_ADJ 人民_NOUN 代表_NOUN 大会_NOUN 关于_ADP 完善_VERB 香港_PROPN 特别_ADJ 行政区_NOUN 选举_NOUN 制度_NOUN 的_PART 决定_NOUN 关于_ADP 加强_VERB 社会主义_NOUN 协商_NOUN 民主_NOUN 建设_NOUN 的_PART 意见_NOUN 中共_PROPN 中央_NOUN 关于_ADP 制定_VERB 国民_NOUN 经济_NOUN 和_CCONJ 社会_NOUN 发展_NOUN 第十四_NUM 个_NUM 五_NUM 年_NUM 规划_NOUN 和_CCONJ 二_NUM O_PUNCT 三五_NUM 年_NUM 远景_ADJ 目标_NOUN 的_PART 建议_NOUN

@@ -1,0 +1,1 @@
+全_DET 过程_NOUN 人民_NOUN 民主_NOUN 理念_NOUN 下_PART 基层_NOUN 立法_NOUN 联系点_NOUN 数字化_NOUN 建设_NOUN 路径_NOUN 探究_VERB —_PUNCT 从_ADP 义乌_PROPN 基层_NOUN 立法_NOUN 联系点_NOUN 工作_NOUN 数字化_NOUN 实践_NOUN 出发_VERB 中华_PROPN 人民_NOUN 共和国_NOUN 家庭_NOUN 教育_NOUN 促进法_NOUN 家庭_NOUN 教育_NOUN ——_PUNCT 从_ADP 零_NUM 开始_NOUN 噪声_NOUN 防治_NOUN ——_PUNCT 声音_NOUN 生根_NOUN 发芽_VERB 涓涓_NOUN 入海_VERB 因声_ADJ 结缘_VERB

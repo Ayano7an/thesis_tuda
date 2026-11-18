@@ -1,0 +1,1 @@
+甘肃省_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 关于_ADP 深入_ADV 学习_VERB 贯彻党_VERB 的_PART 二十_NOUN 大_ADJ 精神_NOUN 丰富_VERB 和_CCONJ 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 甘肃_PROPN 人大_NOUN 实践_VERB 的_PART 决定_NOUN

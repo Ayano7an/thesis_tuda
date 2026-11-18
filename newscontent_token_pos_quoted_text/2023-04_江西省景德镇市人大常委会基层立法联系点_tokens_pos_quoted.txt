@@ -1,0 +1,1 @@
+两_NUM 湖_NOUN 白如玉_NOUN 、_PUNCT 明如镜_NOUN 、_PUNCT 薄如纸_NOUN 、_PUNCT 声如磬_NOUN 中华_PROPN 向_ADP 号瓷_VERB 之_PART 国_NOUN ，_PUNCT 瓷业_NOUN 高峰_NOUN 是_VERB 此_DET 都_NOUN 国家_NOUN 新型_ADJ 工业化_NOUN 直升机_NOUN 产业_NOUN 示范_NOUN 基地_NOUN 国家_NOUN 高新_ADJ 技术_NOUN 产业化_NOUN 基地_NOUN 国家_NOUN 战略性_ADJ 新兴_ADJ 产业_NOUN 区域_NOUN 集聚_NOUN 发展_NOUN 试点_NOUN 国家_NOUN 创新型_NOUN 产业_NOUN 集群_NOUN 试点_NOUN

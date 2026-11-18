@@ -1,0 +1,1 @@
+桂湘_PROPN 黔_PROPN 三_NUM 省_NOUN （_PUNCT 区_NOUN ）_PUNCT 六_NUM 县_NOUN 人大_NOUN 常委会_NOUN 关于_ADP 以_ADP 基层_NOUN 立法_NOUN 联系点_NOUN 为_VERB 载体_NOUN 推动_VERB 文旅_NOUN 协同_ADV 发展_NOUN 铸牢_VERB 中华_PROPN 民族_NOUN 共同体_ADJ 意识_NOUN 的_PART 共识_NOUN

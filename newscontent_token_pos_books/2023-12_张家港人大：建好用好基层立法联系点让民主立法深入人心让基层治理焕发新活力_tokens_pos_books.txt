@@ -1,0 +1,1 @@
+苏州市_PROPN 乡村_NOUN 建设_NOUN 条例_NOUN （_PUNCT 草案_NOUN 修改_VERB 一_NUM 稿_NOUN ）_PUNCT 苏州市_PROPN 公共_ADJ 汽车_NOUN 客运_NOUN 管理_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT

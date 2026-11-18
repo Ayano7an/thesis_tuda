@@ -1,0 +1,1 @@
+河南省_PROPN 禁毒_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT 河南省_PROPN 实施_VERB 〈_PUNCT 中华_PROPN 人民_NOUN 共和国_NOUN 全国_ADJ 人民_NOUN 代表_NOUN 大会_NOUN 和_CCONJ 地方_NOUN 各级_NOUN 人民_NOUN 代表_NOUN 大会_NOUN 选举法_NOUN 〉细_NOUN 则_NOUN （_PUNCT 修订_ADJ 草案_NOUN ）_PUNCT 南阳市_PROPN 人大_NOUN 常委会_NOUN 听取_VERB 审议_NOUN 专项_ADJ 工作_NOUN 报告_NOUN 办法_NOUN

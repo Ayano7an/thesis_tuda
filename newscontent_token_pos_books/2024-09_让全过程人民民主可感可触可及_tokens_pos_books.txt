@@ -1,0 +1,1 @@
+山东省_PROPN 绿色_NOUN 低碳_NOUN 高_ADJ 质量_NOUN 发展_NOUN 促进_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT 山东省_PROPN 快_NOUN 递业_NOUN 促进_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT

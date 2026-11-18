@@ -1,0 +1,1 @@
+人大_NOUN 代表_NOUN 学习_NOUN 宣传_NOUN 手册_NOUN 中华_PROPN 人民_NOUN 共和国_NOUN 法律_NOUN 援助法_NOUN 南阳市_PROPN 城市_NOUN 市容_NOUN 和_CCONJ 环境_NOUN 卫生_NOUN 管理_NOUN 条例_NOUN 中华_PROPN 人民_NOUN 共和国_NOUN 文物_NOUN 保护法_NOUN 南阳市_PROPN 居民_NOUN 住宅区_NOUN 消防_NOUN 安全_NOUN 管理_NOUN 条例_NOUN

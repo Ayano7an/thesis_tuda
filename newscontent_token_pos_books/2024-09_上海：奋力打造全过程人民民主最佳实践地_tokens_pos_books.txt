@@ -1,0 +1,1 @@
+上海市_PROPN 推进_VERB 国际_NOUN 金融_NOUN 中心_NOUN 建设_NOUN 条例_NOUN （_PUNCT 修订_NOUN 草案_NOUN ）_PUNCT 充分_ADV 发挥_VERB 人民_NOUN 代表_NOUN 大会_NOUN 重要_ADJ 制度_NOUN 载体_NOUN 作用_NOUN 、_PUNCT 助力_VERB 打造_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 最佳_ADJ 实践_NOUN 地_NOUN 的_PART 意见_NOUN

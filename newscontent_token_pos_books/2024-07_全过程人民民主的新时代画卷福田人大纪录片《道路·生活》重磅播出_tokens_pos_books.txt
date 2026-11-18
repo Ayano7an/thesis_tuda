@@ -1,0 +1,1 @@
+道路_NOUN ·_PUNCT 生活_NOUN 道路_NOUN ·_PUNCT 生活_NOUN 道路_NOUN ·_PUNCT 生活_NOUN

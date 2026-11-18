@@ -1,0 +1,1 @@
+审议_NOUN 意见_NOUN 人大_NOUN 跟踪_VERB 问效_NOUN ，_PUNCT 推动_VERB 安全_NOUN 生产_NOUN 属地_NOUN 管理_NOUN 精准_NOUN 落地_VERB

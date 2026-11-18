@@ -1,0 +1,1 @@
+经国_NOUN 之_PART 本_NOUN ：_PUNCT 中国_PROPN 共产党_PROPN 对_ADP 国家_NOUN 制度_NOUN 和_CCONJ 法律_NOUN 制度_NOUN 的_PART 百年_NOUN 探索_NOUN

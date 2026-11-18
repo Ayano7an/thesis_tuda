@@ -1,0 +1,1 @@
+正大_VERB 光明_VERB 清明_VERB 公正_VERB 姓名_NOUN +_PUNCT 联系_NOUN 方式_NOUN +_PUNCT 名字_NOUN 和_CCONJ 建议_NOUN 表情_NOUN 投稿_NOUN 表情包_NOUN 名字_NOUN +_PUNCT 命名_NOUN 解释_NOUN

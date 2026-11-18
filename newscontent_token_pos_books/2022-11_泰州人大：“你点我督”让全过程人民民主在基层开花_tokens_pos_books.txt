@@ -1,0 +1,1 @@
+泰州市_PROPN 人大_NOUN 代表_NOUN 履职_NOUN 评价_NOUN 激励_NOUN 办法_NOUN 泰州市_PROPN 宠物_NOUN 饲养_NOUN 管理_NOUN 条例_NOUN 关于_ADP 加强_VERB 襟江巷_PROPN 、_PUNCT 三井巷_PROPN 、_PUNCT 土山巷_PROPN 长效_ADJ 管理_NOUN 的_PART 建议_NOUN

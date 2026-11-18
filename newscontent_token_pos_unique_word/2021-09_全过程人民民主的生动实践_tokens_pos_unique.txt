@@ -1,0 +1,1 @@
+国字号_NOUN 国字号_NOUN 直通车_NOUN 1_NUM 3_NUM X_PUNCT 五花八门_NOUN 直通车_NOUN 土言土语_NOUN 被动_ADV 直通车_NOUN 蝶变_PROPN 钉钉_NOUN 移动_NOUN 送上门_VERB 解渴_VERB 代表钉_NOUN 六连冠_NOUN 直通车_NOUN 直通车_NOUN 老大难_NOUN 督事_VERB 星罗棋布_PROPN

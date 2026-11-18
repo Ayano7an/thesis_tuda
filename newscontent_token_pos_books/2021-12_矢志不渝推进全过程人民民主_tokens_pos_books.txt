@@ -1,0 +1,1 @@
+中国_PROPN 的_PART 民主_NOUN “_PUNCT 中国_PROPN 的_PART 民主_NOUN ”_PUNCT 系列_NOUN 谈_NOUN 民主_NOUN 政府_NOUN 施政_NOUN 纲领_NOUN 陕甘宁_PROPN 边区_NOUN 抗战_NOUN 时期_NOUN 施政_NOUN 纲领_NOUN 陕甘宁_PROPN 边区_NOUN 施政_NOUN 纲领_NOUN 中华_PROPN 人民_NOUN 共和国_NOUN 宪法_NOUN

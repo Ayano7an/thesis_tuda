@@ -1,0 +1,1 @@
+中共_PROPN 中央_NOUN 关于_ADP 全面_ADV 推进_VERB 依法_ADV 治国_VERB 若干_NUM 重大_ADJ 问题_NOUN 的_PART 决定_NOUN 决定_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN 制度_NOUN 的_PART 起源_NOUN 与_CCONJ 历史_NOUN 演进_NOUN 全国_ADJ 人大_NOUN 常委会_NOUN 法制_NOUN 工作_NOUN 委员会_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN 工作_NOUN 规则_NOUN 检察_NOUN 日报_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN 中长期_NOUN 发展_NOUN 规划_NOUN

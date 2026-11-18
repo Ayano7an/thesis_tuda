@@ -1,0 +1,1 @@
+中国_PROPN 共产党_NOUN 统一_ADJ 战线_NOUN 工作_NOUN 条例_NOUN 中华_PROPN 人民_NOUN 共和国_NOUN 地方_NOUN 各级_ADJ 人民_NOUN 代表_NOUN 大会_NOUN 和_CCONJ 地方_NOUN 各级_NOUN 人民_NOUN 政府_NOUN 组织法_NOUN

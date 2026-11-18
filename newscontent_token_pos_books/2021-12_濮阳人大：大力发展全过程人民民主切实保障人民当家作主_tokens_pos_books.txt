@@ -1,0 +1,1 @@
+濮阳市_PROPN 公共_ADJ 资源_NOUN 交易_NOUN 管理_NOUN 条例_NOUN 濮阳市_PROPN 不可_ADV 降解_VERB 塑料_NOUN 制品_NOUN 管理_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT

@@ -1,0 +1,1 @@
+网红_ADJ 夜市_NOUN 末端_NOUN 执法_NOUN 源头_NOUN 服务_VERB 倾听_VERB —响_PUNCT 应—_PUNCT 服务_NOUN 摊主_NOUN 自治_VERB +_PUNCT 政府_NOUN 监管_VERB 民_NOUN 所_PART 盼_VERB 网红_NOUN 流量_NOUN 治理_NOUN 增量_NOUN

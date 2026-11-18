@@ -1,0 +1,1 @@
+江苏省_PROPN 地下水_NOUN 管理_NOUN 条例_NOUN （_PUNCT 草案_NOUN ）_PUNCT 江苏省_PROPN 地下水_NOUN 管理_NOUN 条例_NOUN 条例_NOUN 江苏省_PROPN 河道_NOUN 管理_NOUN 条例_NOUN 水污染_NOUN 防治法_NOUN 江苏省_PROPN 河道_NOUN 管理_NOUN 条例_NOUN

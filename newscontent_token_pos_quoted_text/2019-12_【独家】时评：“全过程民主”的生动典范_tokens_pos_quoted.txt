@@ -1,0 +1,1 @@
+全_DET 过程_NOUN 的_PART 民主_NOUN 立法_NOUN 直通车_NOUN 立法_NOUN 决策_NOUN 前_PART 立法_NOUN 决策_NOUN 中_PART 立法_NOUN 决策_NOUN 后_PART 立法_NOUN 决策_NOUN 前_PART 立法_NOUN 决策_NOUN 中_PART 立法_NOUN 决策_NOUN 后_PART 全链_ADJ 条式_NOUN 最_ADV 大_ADJ 公约数_NOUN 砍_VERB 一_NUM 刀_NUM 把_X 百姓_NOUN 放在_VERB 心上_NOUN ，_PUNCT 把_X 民意_NOUN 装进_VERB 法里_NOUN

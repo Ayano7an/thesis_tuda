@@ -1,0 +1,1 @@
+是_VERB 中国_PROPN 历史_NOUN 上_PART 第一_NUM 个_NUM 苏维埃_PROPN 政权_NOUN 绿美_ADJ 汕尾·人大_PROPN 代表_NOUN 在_ADP 行动_NOUN 人大_NOUN 代表_NOUN 林·绿美_NOUN 廊道_NOUN 民主_NOUN 之_PART 花_NOUN 两_NUM 个_NUM 确立_NOUN 四_NUM 个_NUM 意识_NOUN 四_NUM 个_NUM 自信_NOUN 两_NUM 个_NUM 维护_NOUN 小快_ADJ 灵_NOUN 小_ADJ 切口_NOUN 一_NUM 府_NOUN 一委_NOUN 两院_NOUN 百千万_NUM 工程_NOUN 四_NUM 个_NUM 机关_NOUN 后_DET 半_NUM 篇_NUM 文章_NOUN 五化_NOUN 一_NUM 好_NOUN

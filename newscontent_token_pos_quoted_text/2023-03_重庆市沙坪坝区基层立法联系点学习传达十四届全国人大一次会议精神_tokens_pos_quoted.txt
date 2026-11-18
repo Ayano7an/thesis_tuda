@@ -1,0 +1,1 @@
+两_NUM 个_NUM 确立_VERB 两_NUM 个_NUM 确立_NOUN 四_NUM 个_NUM 意识_NOUN 四_NUM 个_NUM 自信_NOUN 两_NUM 个_NUM 维护_NOUN 总书记_NOUN 有_VERB 号令_NOUN 、_PUNCT 党中央_NOUN 有_VERB 部署_NOUN ，_PUNCT 重庆_PROPN 见_VERB 行动_NOUN ，_PUNCT 沙坪坝_PROPN 抓_VERB 落实_NOUN 四_NUM 个_NUM 机关_NOUN 建设_VERB 好_VERB 基层_NOUN 立法_NOUN 联系点_NOUN 后来居上_VERB ，_PUNCT 勇争_VERB 一流_NOUN

@@ -1,0 +1,1 @@
+省人大_NOUN 常委会_NOUN 关于_ADP 开展_VERB “_PUNCT 聚力_VERB 共同_ADV 缔造_VERB ·_PUNCT 代表_NOUN 行动_NOUN ”_PUNCT 工作_NOUN 方案_NOUN 黄石市_PROPN 既有_ADJ 住宅_NOUN 加装_VERB 电梯_NOUN 条例_NOUN 代表_NOUN 来_VERB 了_PART

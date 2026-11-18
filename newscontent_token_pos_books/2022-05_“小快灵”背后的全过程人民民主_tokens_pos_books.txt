@@ -1,0 +1,1 @@
+信阳市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 关于_ADP 新_ADJ 冠肺_NOUN 炎_NOUN 疫情_NOUN 常态化_NOUN 防控_NOUN 期间_NOUN 佩戴_VERB 口罩_NOUN 和_CCONJ 使用_VERB 场所_NOUN 码_NOUN 的_PART 决定_NOUN （_PUNCT 草案_NOUN ）_PUNCT 信阳市_PROPN 人民_NOUN 代表_NOUN 大会_NOUN 常务_ADJ 委员会_NOUN 关于_ADP 预防_VERB 和_CCONJ 制止_VERB 餐饮_NOUN 浪费_NOUN 的_PART 决定_NOUN （_PUNCT 草案_NOUN ）_PUNCT

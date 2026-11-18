@@ -1,0 +1,1 @@
+福建_PROPN 日报_NOUN 传承_VERB 弘扬_VERB 习近平_PROPN 同志_NOUN 在_ADP 福建_PROPN 工作_VERB 期间_NOUN 关于_ADP 人大_NOUN 制度_NOUN 和_CCONJ 人大_NOUN 工作_NOUN 的_PART 重要_ADJ 理念_NOUN 和_CCONJ 重大_ADJ 实践_NOUN 为_ADP 在_ADP 中国式_ADJ 现代化_NOUN 建设_NOUN 中_PART 奋勇_ADV 争先_VERB 贡献_VERB 力量_NOUN 福建省_PROPN 海洋_NOUN 经济_NOUN 促进_NOUN 条例_NOUN

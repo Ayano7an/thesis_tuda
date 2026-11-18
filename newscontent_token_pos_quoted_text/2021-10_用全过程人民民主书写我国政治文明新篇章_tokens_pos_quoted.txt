@@ -1,0 +1,1 @@
+民有_NOUN 所呼_NOUN 、_PUNCT 我_PRON 有所_VERB 应_NOUN 为_ADP 人民_NOUN 用权_VERB 、_PUNCT 为_ADP 人民_NOUN 履职_VERB 、_PUNCT 为_ADP 人民_NOUN 服务_VERB

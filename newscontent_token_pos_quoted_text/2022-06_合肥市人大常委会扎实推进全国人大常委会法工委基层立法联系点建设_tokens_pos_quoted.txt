@@ -1,0 +1,1 @@
+三_NUM 联动_NOUN +_PUNCT 两_NUM 依托_NOUN +_PUNCT 一_NUM 特色_NOUN 三_NUM 联动_NOUN 两_NUM 依托_NOUN 一_NUM 特色_NOUN 科技_NOUN 创新_NOUN 科技_NOUN 立法_NOUN 信息_NOUN 收集点_NOUN 六_NUM 步_NUM 工作法_NOUN 立法_NOUN 意见_NOUN 网上_NOUN 征集_NOUN 平台_NOUN 立法_NOUN 过程_NOUN 中_PART 的_PART 意见_NOUN 征求_NOUN 立法_NOUN 前_PART 立法_NOUN 后_PART 一_NUM 法_NOUN 一_NUM 方案_NOUN

@@ -1,0 +1,1 @@
+青岛_PROPN 西海岸_PROPN 新区_NOUN 条例_NOUN 再_ADV 出发_VERB ，_PUNCT 最_ADV 管用_VERB 的_PART 民主_NOUN

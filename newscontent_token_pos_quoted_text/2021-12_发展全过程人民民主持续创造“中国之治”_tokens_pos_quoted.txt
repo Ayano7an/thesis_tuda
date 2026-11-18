@@ -1,0 +1,1 @@
+四_NUM 个_NUM 要_VERB 看_VERB 、_PUNCT 四_NUM 个_NUM 更_ADV 要_VERB 看_VERB 中国_PROPN 之_PART 治_NOUN
