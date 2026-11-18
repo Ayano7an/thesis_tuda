@@ -1,0 +1,1 @@
+地位_NOUN 。_PUNCT 沙坪_PROPN 坝区_PROPN 人大_NOUN 常委会_NOUN 作为_ADP 全国_ADJ 人大_NOUN 常委会_NOUN 法工委_NOUN 基层_NOUN 立法_NOUN 联系点_NOUN ，_PUNCT

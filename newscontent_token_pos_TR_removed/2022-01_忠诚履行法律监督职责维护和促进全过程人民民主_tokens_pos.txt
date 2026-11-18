@@ -1,0 +1,1 @@
+检察_NOUN  以_ADP 习近_VERB 平法_NOUN 治_VERB 思想_NOUN 为_VERB 指导_NOUN  贡献_NOUN 。_PUNCT 　　_SPACE 要_VERB 从_ADP 保证_VERB 人民_NOUN 当家_NOUN 作主_VERB 、_PUNCT 坚持_VERB 人民_NOUN 代表_NOUN 大会_NOUN 制度_NOUN 的_PART  ，_PUNCT 完善_VERB 人民_NOUN 监督员_NOUN 制度_NOUN ，_PUNCT 经常性_ADV 组织_VERB 开展_VERB 

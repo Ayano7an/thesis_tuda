@@ -1,0 +1,1 @@
+十四_NUM 届_NUM 全国_ADJ 人大_NOUN 一_NUM 次_NUM 会议_NOUN 大会_NOUN 发言人_NOUN 王超说_PROPN ，_PUNCT 这次_PART 修改_NOUN 立法法_NOUN 有_VERB 以下_PRON 主要_ADJ 内容_NOUN ：_PUNCT 完善_VERB 立法_NOUN  完善_VERB 立法_NOUN  ；_PUNCT 

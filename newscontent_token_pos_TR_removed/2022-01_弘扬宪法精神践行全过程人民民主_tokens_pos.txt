@@ -1,0 +1,1 @@
+ 人民_NOUN 代表_NOUN 大会_NOUN  ，_PUNCT 在_ADP 充分_ADV 调研_VERB 的_PART 基础_NOUN 上_PART  的_PART 根本_ADJ 政治_NOUN 制度_NOUN  根基_NOUN ，_PUNCT 将_X “_PUNCT 全_DET 过程_NOUN 人民_NOUN 民主_NOUN ”_PUNCT 写入_VERB 法律_NOUN ，_PUNCT 融入_VERB 法治_NOUN 

@@ -1,0 +1,1 @@
+部_NUM 国家_NOUN 法律_NOUN 草案_NOUN ，_PUNCT 21_NUM 部省级_ADJ 地方性_ADJ 法规_NOUN 草案_NOUN ，_PUNCT 17_NUM 部_NUM 市级_ADJ 地方性_ADJ 法规_NOUN 草案_NOUN 的_PART 立法_NOUN 意见_NOUN 征询_NOUN 工作_NOUN ，_PUNCT

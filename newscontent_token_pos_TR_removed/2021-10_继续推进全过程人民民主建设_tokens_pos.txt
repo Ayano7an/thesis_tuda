@@ -1,0 +1,1 @@
+民主_NOUN ，_PUNCT 是_VERB 全人类_NOUN  &_PUNCT ens_PROPN p;_NOUN 作者_NOUN 为_VERB 人民_NOUN 日报_NOUN 评论员_NOUN ）_PUNCT

@@ -1,0 +1,1 @@
+上报_VERB 的_PART 17_NUM 条_NUM 建议_NOUN 。_PUNCT 　　_SPACE 党_NOUN 的_PART 二十_NUM 届_NUM 三中全会_NOUN 就_ADP 健全_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 制度_NOUN 体系_NOUN 作出_VERB 进一步_ADJ 部署_NOUN 。_PUNCT

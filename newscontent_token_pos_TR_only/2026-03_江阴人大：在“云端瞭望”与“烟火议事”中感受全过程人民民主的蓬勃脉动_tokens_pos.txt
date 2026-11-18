@@ -1,0 +1,1 @@
+守正_VERB 创新_VERB ，_PUNCT 切实_ADV 把_X 人民_NOUN 代表_VERB 大会_NOUN 制度_NOUN 优势_NOUN 转化_VERB 为_VERB 治理_NOUN 效能_NOUN ，_PUNCT 让_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN，_PUNCT 切实_ADV 把_X 人民_NOUN 代表_VERB 大会_NOUN 制度_NOUN 优势_NOUN 转化_VERB 为_VERB 治理_NOUN 效能_NOUN ，_PUNCT 让_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 可_VERB 触可感_VERB ，_PUNCT

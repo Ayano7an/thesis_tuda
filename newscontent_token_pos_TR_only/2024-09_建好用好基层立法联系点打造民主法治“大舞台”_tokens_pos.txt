@@ -1,0 +1,1 @@
+基层_NOUN 立法_NOUN 联系点_NOUN ，_PUNCT 一头_ADV 连着_VERB 最_ADV 高_ADJ 国家_NOUN 权力_NOUN 机关_NOUN ，_PUNCT 一头_ADV 系_VERB 着_PART 基层_NOUN 群众_NOUN ，_PUNCT 是_VERB 发展_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 的_PART 一个_PART 缩影_NOUN 。_PUNCT 这些_DET 倾听_VERB 民情_NOUN 民意_NOUN

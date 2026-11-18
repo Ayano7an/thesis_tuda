@@ -1,0 +1,1 @@
+新华社_PROPN   根本_VERB 的_PART 是_VERB 坚持_VERB 党_NOUN 的_PART 全面_ADJ 领导_NOUN  深刻_ADV 认识_VERB 全_DET 过程_NOUN 人民_NOUN  人民_NOUN  全国_ADJ 人大_NOUN 代表_NOUN 要_VERB  ，_PUNCT 忠实_ADV 代表_VERB 人民_NOUN 利益_NOUN ；_PUNCT 密切_ADV 联系_VERB 群众_NOUN ，_PUNCT 大兴_ADV 调查_VERB 研究_VERB ；_PUNCT 担当_VERB 作为_VERB ，_PUNCT 尽心尽力_ADV 履行_VERB 职责_NOUN ；_PUNCT 自省_VERB 自重_VERB ，_PUNCT 模范_ADV 遵守_VERB 

@@ -1,0 +1,1 @@
+工作_NOUN 委员会_NOUN 。_PUNCT 　　_SPACE 2021年_NOUN 7月_NOUN ，_PUNCT 北京市_PROPN 朝阳区_PROPN 人大_NOUN 常委会_NOUN 被_X 全国_ADJ 人大_NOUN 常委会_NOUN 法工委_NOUN 确定_VERB 为_VERB 第三_NUM 批_NUM 基层_NOUN 立法_NOUN 联系点_NOUN 。_PUNCT 在_ADP 区委_NOUN 领导_VERB 下_PART

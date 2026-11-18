@@ -1,0 +1,1 @@
+下午_NOUN ，_PUNCT 在_ADP 扬州市_PROPN 九届_NUM 人大_NOUN 常委会_NOUN 第二十三_NUM 次_NUM 会议_NOUN 现场_NOUN ，_PUNCT 刚刚_ADV 领取_VERB 到_VERB 《_PUNCT转化_VERB 为_VERB 《_PUNCT 扬州市_PROPN 儿童_NOUN 友好_ADJ 城市_NOUN 建设_NOUN 促进_NOUN 条例_NOUN 》_PUNCT （_PUNCT

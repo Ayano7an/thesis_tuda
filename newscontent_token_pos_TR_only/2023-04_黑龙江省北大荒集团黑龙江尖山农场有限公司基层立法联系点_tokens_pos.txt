@@ -1,0 +1,1 @@
+中央_NOUN 人大_NOUN 工作_NOUN 会议_NOUN 精神_NOUN ，_PUNCT 践行_VERB 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 重大_ADJ 理念_NOUN ，_PUNCT

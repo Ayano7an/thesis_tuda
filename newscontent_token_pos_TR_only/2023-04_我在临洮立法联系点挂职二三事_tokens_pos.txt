@@ -1,0 +1,1 @@
+基地_NOUN 。_PUNCT 　　_SPACE 全_DET 过程_NOUN 人民_NOUN 民主_NOUN 是_VERB 社会主义_NOUN 民主_NOUN 的_PART 本质_NOUN 属性_NOUN 。_PUNCT
